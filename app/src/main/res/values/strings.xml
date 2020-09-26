@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flowers</string>
+    <string name="nama_flower">Nama Bunga</string>
+    <string name="detail">Detail</string>
+    <string name="nama_me">Rizwan Gustama</string>
+    <string name="email_me">rizonegustama@gmail.com</string>
+    <string name="kelasifikasi">Kelasifikasi</string>
+    <string name="spesies">Spesies</string>
+    <string name="konten_rank">Konten Rank dan Kelasifikasi</string>
+    <string name="content_identity">Konten Klasifikasi \nKonten Klasifikasi</string>
+    <string name="title_identity">Kerajaan \nDivisi \nKelas \nOrdo \nFamili \nSubfamili \nGenus</string>
+    <string name="flower_overview">Flower Overview</string>
+    <string name="content_overview">Content Overview</string>
+    <string name="ad_banner">ca-app-pub-6637778792541347/4455967484</string>
+    <string name="ad_iklan">ca-app-pub-6637778792541347/8175527126</string>
+</resources>
